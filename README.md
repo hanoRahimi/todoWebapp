@@ -1,4 +1,4 @@
-#Django Todo App
+**Django Todo App**
 
 This is a simple Todo List application built using the Django framework. It allows users to create, view, and delete tasks.
 
@@ -11,4 +11,3 @@ Features
      Delete tasks after completion.
 
      Basic form validation using Django forms.
-
